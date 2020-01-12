@@ -7,6 +7,8 @@
 * [Phantom.js][]
 * [Poltergeist][]
 
+[nokogiri]:
+
 ## Tutorials
 
 In the order I found/read them:
