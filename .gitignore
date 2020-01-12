@@ -10,6 +10,9 @@
 /test/version_tmp/
 /tmp/
 
+# Capybara screen captures
+capybara-*.png
+
 # Used by dotenv library to load environment variables.
 # .env
 
