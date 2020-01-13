@@ -25,7 +25,7 @@
 [phantomjs]: <>
 [poltergeist]: <>
 [pry]: <>
-[elenium-webdriver]: <>
+[selenium-webdriver]: <https://selenium.dev>
 
 ## Tutorials
 
