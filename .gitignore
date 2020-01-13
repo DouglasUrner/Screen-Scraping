@@ -1,3 +1,11 @@
+# Files to ignore until sensitive data is removed
+screenscrape-canvas.rb
+setup-capybara.rb
+
+# macOS
+.DS_Store
+
+# Normal stuff
 *.gem
 *.rbc
 /.config
