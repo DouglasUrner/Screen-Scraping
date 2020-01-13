@@ -15,14 +15,14 @@
 ### Headless Browsers
 
 * [ChromeDriver][] - ```brew cask install chromedriver```
-* [Phantom.js][phantom] - headless browser, allows you to write code that interacts with the browser without having a display. Still available, but no longer supported, at this point headless Firefox or Chrome are probably better choices.
+* [Phantom.js][phantomjs] - headless browser, allows you to write code that interacts with the browser without having a display. Still available, but no longer supported, at this point headless Firefox or Chrome are probably better choices. ```brew cask install phantomjs```
 
 [capybara]: <>
 [chromedriver]: <https://chromedriver.chromium.org>
 [launchy]: <>
 [mechanize]: <>
 [nokogiri]: <>
-[phantom]: <>
+[phantomjs]: <>
 [poltergeist]: <>
 [pry]: <>
 [elenium-webdriver]: <>
